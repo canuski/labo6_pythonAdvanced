@@ -1,0 +1,67 @@
+[
+  {
+    "name": "google",
+    "address": "8.8.8.8",
+    "result": "Ping is gelukt, server is online!"
+  },
+  {
+    "name": "s1",
+    "address": "4.4.4.4",
+    "result": "Request timed out, no reply"
+  },
+  {
+    "name": "random",
+    "address": "5.5.5.5",
+    "result": "Request timed out, no reply"
+  },
+  {
+    "name": "cloudfare",
+    "address": "1.1.1.1",
+    "result": "Ping is gelukt, server is online!"
+  },
+  {
+    "name": "s1",
+    "address": "4.4.4.4",
+    "result": "Request timed out, no reply"
+  },
+  {
+    "name": "google",
+    "address": "8.8.8.8",
+    "result": "Request timed out, no reply"
+  },
+  {
+    "name": "cloudfare",
+    "address": "1.1.1.1",
+    "result": "Request timed out, no reply"
+  },
+  {
+    "name": "cloudfare",
+    "address": "1.1.1.1",
+    "result": "Ping is gelukt, server is online!"
+  },
+  {
+    "name": "cloudfare",
+    "address": "1.1.1.1",
+    "result": "Request timed out, no reply"
+  },
+  {
+    "name": "cloudfare",
+    "address": "1.1.1.1",
+    "result": "Request timed out, no reply"
+  },
+  {
+    "name": "cloudfare",
+    "address": "1.1.1.1",
+    "result": "Request timed out, no reply"
+  },
+  {
+    "name": "google",
+    "address": "8.8.8.8",
+    "result": "Ping is gelukt, server is online!"
+  },
+  {
+    "name": "s1",
+    "address": "4.4.4.4",
+    "result": "Request timed out, no reply"
+  }
+]
